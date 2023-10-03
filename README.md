@@ -1,2 +1,2 @@
 # Lucas
-Checkpoint-2Sem - Database Application and Data Science
+Checkpoint 2 - Lucas - Database Application and Data Science
